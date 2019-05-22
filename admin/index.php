@@ -82,7 +82,7 @@
                     <input name="Starter_Vegetarian" id="Starter_Vegetarian" type="checkbox" /> Vegeterian
                     <input name="Starter_Vegan" id="Starter_Vegan" type="checkbox" /> Vegan
                     <label>Price</label>
-                    <input class="u-full-width" name="price" id="Starter_price" type="text" required/>
+                    <input class="u-full-width" name="price" id="Starter_price"  pattern="[0-9]{1,2}" type="text" required/>
                 </div>
               <input class="button" value="To bot" type="submit">
             </form>
@@ -120,7 +120,7 @@
                     <input name="Soup_Vegetarian" id="Soup_Vegetarian" type="checkbox" /> Vegeterian
                     <input name="Soup_Vegan" id="Soup_Vegan" type="checkbox" /> Vegan
                     <label>Price</label>
-                    <input class="u-full-width" name="price" id="soup_price" type="text" required/>
+                    <input class="u-full-width" name="price" id="soup_price" pattern="[0-9]{1,2}" type="text" required/>
                 </div>
               <input class="button" value="To bot" type="submit">
             </form>
@@ -196,7 +196,7 @@
                     <input name="Dessert_Vegetarian" id="Dessert_Vegetarian" type="checkbox" /> Vegeterian
                     <input name="Dessert_Vegan" id="Dessert_Vegan" type="checkbox" /> Vegan
                     <label>Price</label>
-                    <input class="u-full-width" name="price" id="Dessert_price" type="text" required/>
+                    <input class="u-full-width" name="price" id="Dessert_price" pattern="[0-9]{1,2}" type="text" required/>
                 </div>
               <input class="button" value="To bot" type="submit">
             </form>
