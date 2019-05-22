@@ -1,0 +1,5 @@
+{
+  "access_token": "Facebook page access token here",
+  "verify_token": "app verify token here",
+  "db_url": "URL http or https to /botdb/ on remote server" 
+}
