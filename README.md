@@ -2,7 +2,7 @@
 The bot for cafe Muna
 
 
-The bot folder contains files for running the bot on Node.JS 
+The bot folder contains files for running the bot on Node.JS. 
 For a successful launch, you need to fill in the fields in the /config/default.json file
 
 Facebook page access token and verify token
